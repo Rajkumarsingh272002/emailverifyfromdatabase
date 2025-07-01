@@ -1,3 +1,22 @@
+Nmae of Project and Aim =>"email verify from database"
+                          (in this project you found login and sign-up and dashboard. you do regsiterd through signup-page and then you can do login . during signup if you alraedy signup by email then this show message your "email id" alreday exit into database means  this email-id as you giving this match from "database" if not "did not match" then you resgister "successfully" and you can do login. during registration type you give passowrd , you password secure keep in database by incrypt mode. when you go into login page asked to you fillup "email" and "password" if "eamil and "password" did match from database then you found dashboard if did not match "email" and "password" from database you found alert message that check "email" and "passsword". after successfully login you jum to dashboard . into dashboard you found more module such that(profile,change password,logout). into profile you see profile and can do update profile(such that -change "email-id",change"username",change"mobile". into change password you can do change(update) password. finally you logout in easy way. this is simple "email verify project from database".)
+                          
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+SCREENSHOT=>
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+FEATURES:-
+Signup- you registed in easy way this convenient with "email verify from database"
+login-you goto dushboard by login if your "email" and "password" verify from database successful
+dashboard-more module(profile,change password,logout)
+          profile-you can do update profile
+          change password-yes change password in easy way , this password save into database in secure way
+          logut-in easy way you can do logout
+note:-this "cors" project(email verify from database)
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 FRONTEND WORK:-
 0-Node.js Install  (अगर पहले से नहीं है)
 Node.js download : https://nodejs.org
@@ -47,6 +66,6 @@ DATABAE WORK:-
    you project(email verifaction from database) run successfully.
    note:-this project "cors" project
    .............................................................................................................
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
     
