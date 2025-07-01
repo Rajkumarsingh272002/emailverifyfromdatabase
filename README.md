@@ -1,9 +1,18 @@
 Nmae of Project and Aim =>"email verify from database"
-                          (in this project you found login and sign-up and dashboard. you do regsiterd through signup-page and then you can do login . during signup if you alraedy signup by email then this show message your "email id" alreday exit into database means  this email-id as you giving this match from "database" if not "did not match" then you resgister "successfully" and you can do login. during registration type you give passowrd , you password secure keep in database by incrypt mode. when you go into login page asked to you fillup "email" and "password" if "eamil and "password" did match from database then you found dashboard if did not match "email" and "password" from database you found alert message that check "email" and "passsword". after successfully login you jum to dashboard . into dashboard you found more module such that(profile,change password,logout). into profile you see profile and can do update profile(such that -change "email-id",change"username",change"mobile". into change password you can do change(update) password. finally you logout in easy way. this is simple "email verify project from database".)
+                            this project are "cors" type project we using Tech Stack=> (HTML, css3, bootstrap5, javascript,vue.js3-composition-api, vue-router, pinia, xampp, php-Api,mysql,Axios))
+                          (in this project you found login and sign-up and dashboard. you do regsiterd through signup-page and then you can do login . during signup if you alraedy signup by email then this show message your "email id" alreday exit into database means  this email-id as you giving this match from "database" if  "did not match" then you resgister "successfully" and you can do login. during registration type you give passowrd , you password secure keep in database by incrypt mode. when you go into login page asked to you fillup "email" and "password" if "eamil and "password" did match from database then you found dashboard if did not match "email" and "password" from database you found alert message that check "email" and "passsword". after successfully login you jum to dashboard . into dashboard you found more module such that(profile,change password,logout) will be show. into profile you  can do update profile(such that -change "email-id",change"username",change"mobile". into change password you can do change(update) password. finally you logout in easy way. this is simple "email verify project from database".)
                           
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 SCREENSHOT=>
+![Image](https://github.com/user-attachments/assets/4c1e31f9-f632-41aa-b2d7-8ea39fe55c05)
+![Image](https://github.com/user-attachments/assets/c364333c-ea62-475b-9d76-cc1051e9c4d5)
+![Image](https://github.com/user-attachments/assets/54920569-0340-4912-b605-9e18173f6003)
+![Image](https://github.com/user-attachments/assets/df14e0e6-1452-4271-9d3e-8d75b2760792)
+![Image](https://github.com/user-attachments/assets/98ee0af3-2c0d-4f36-82dd-0ffe2a3eb5f8)
+![Image](https://github.com/user-attachments/assets/c55e122a-70ed-4b4e-8343-2ec512864275)
+![Image](https://github.com/user-attachments/assets/d143ccce-e35e-4618-874f-2b146a98dea5)
+![Image](https://github.com/user-attachments/assets/b8f03a4b-c0bb-413a-b50e-81e43619c87e)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -47,13 +56,13 @@ this folder (pro1_Api_emailVerFromDatabase) .
 4-plz you open xampp local environment server so that vue.js and php-api communicate one to another.
     start-Apache
     start-mysql
-5-note-: we used php-Api(Rest-Api) as communicate with vue.js-project(this is "cors" system).
+5-note-: we used php-Api(Rest-Api) as communicate with vue.js-project(this is "cors" system type project).
   and in this folder((pro1_Api_emailVerFromDatabase) you found again one folder (projectFolderAllmainFolder)  when open this (projectFolderAllmainFolder)folder you found php-APi ALL 
 
 .............................................................................................................................................................................................
 DATABAE WORK:-
- 1-goto xampp->start (mysql)->admin(click)-you found(http://localhost/phpmyadmin/)
- 2-make new database(signup)
+ 1-goto xampp->start (mysql)->admin(click)-you found(http://localhost/phpmyadmin/)-see browser
+ 2-make new database(signup) into http://localhost/phpmyadmin/
  3-when you make database name(signup) then select (signup) database name 
  4-goto import and click import 
  5-choose file(signup.sql) as you alreday download done from github open download folder name(database) and select (signup.sql)
@@ -64,8 +73,9 @@ DATABAE WORK:-
  goto browser :-
   type:- http://localhost:5173/
    you project(email verifaction from database) run successfully.
-   note:-this project "cors" project
+   note:-this project "cors" type project
    .............................................................................................................
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-  
+
+  Tech Stack=> (HTML, css3, bootstrap5, javascript,vue.js3-composition-api, vue-router, pinia, xampp, php-Api,mysql,Axios)
     
