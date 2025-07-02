@@ -96,6 +96,7 @@ note:-this "cors" project(email verify from database)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 FRONTEND WORK:-
+install/run
 0-Node.js Install  (अगर पहले से नहीं है)
 Node.js download : https://nodejs.org
 for check node install or not:- open cmd-command and type (node -v) then enter  .you will see v22.11.0
