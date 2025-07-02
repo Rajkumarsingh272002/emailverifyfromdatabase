@@ -16,6 +16,21 @@ SCREENSHOT=>
 ![Image](https://github.com/user-attachments/assets/4c1e31f9-f632-41aa-b2d7-8ea39fe55c05)
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+🔍 Learning Outcomes
+Component-based structure in Vue 3
+Working with reactive state and ref, v-for, v-model
+Conditional rendering and reactive state (ref, computed, v-if, v-show, v-model, etc.)
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+🛠️ Tools & Technologies Used
+Tool / Tech	Description
+Vue.js 3	JavaScript framework for building UI
+Composition API	For better logic organization & reusability
+HTML5	Markup structure
+CSS (Custom)	For responsive design, dropdowns, mobile layout
+JavaScript (ES6)	For search, dropdown handling, logic
+Vite	Fast development server and build tool
+Font Awesome	For search icons etc.
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 FEATURES:-
 Signup- you registed in easy way this convenient with "email verify from database"
